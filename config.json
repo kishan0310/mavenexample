@@ -1,3 +1,6 @@
 {
-  "message":"hello"
+        "feature": {
+        "enabled": true,
+        "limit": 50
+        }
 }
